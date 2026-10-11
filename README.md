@@ -1,2 +1,2 @@
-# guvizen
-Guvi Zen Class Tasks and Activities
+# MERN
+MERN Class Tasks and Activities
